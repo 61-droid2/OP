@@ -1,4 +1,4 @@
-'use strcit';
+'use strict';
 
 const generateKey = (length, characters) => {
     let key = '';
