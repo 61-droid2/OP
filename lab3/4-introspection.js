@@ -1,4 +1,4 @@
-'use strcit';
+'use strict';
 
 const iface = {
   m1: x => [x],
